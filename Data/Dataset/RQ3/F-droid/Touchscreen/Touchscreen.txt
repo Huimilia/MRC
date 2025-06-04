@@ -1,0 +1,10 @@
+https://f-droid.org/zh_Hans/packages/io.github.powerinside.scrollsocket/index.html
+https://f-droid.org/zh_Hans/packages/de.rainerhock.eightbitwonders/index.html
+https://f-droid.org/zh_Hans/packages/com.github.m374lx.alexvsbus/index.html
+https://f-droid.org/zh_Hans/packages/ardash.lato/index.html
+https://f-droid.org/zh_Hans/packages/com.dozingcatsoftware.dodge/index.html
+https://f-droid.org/zh_Hans/packages/com.libopenmw.openmw/index.html
+https://f-droid.org/zh_Hans/packages/android.game.prboom/index.html
+https://f-droid.org/zh_Hans/packages/de.rainerhock.eightbitwonders/index.html
+https://f-droid.org/zh_Hans/packages/com.carriez.flutter_hbb/index.html
+https://f-droid.org/zh_Hans/packages/i4nc4mp.myLock/index.html
