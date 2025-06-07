@@ -8,9 +8,11 @@ A static analysis tool based on Soot for detecting multi-window resource conflic
 - Build Tool: Maven
  - Soot: Version 4.3.0 or higher
  - Android SDK: Required for correct resolution of Android framework classes.
-  - Ensure you use the android.jar file that matches the target API level of the APK under analysis.
-   - For example, if the APK targets Android 10 (API 29), use:
-    - ANDROID_SDK/platforms/android-29/android.jar 
+
+   Ensure you use the android.jar file that matches the target API level of the APK under analysis.
+
+   For example, if the APK targets Android 10 (API 29), use:
+   ANDROID_SDK/platforms/android-29/android.jar 
  ### Installation
  #### 1. Clone the Repository
 Clone the MRC-Detector project from GitHub:
